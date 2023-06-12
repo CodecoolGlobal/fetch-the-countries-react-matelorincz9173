@@ -34,10 +34,6 @@ function App() {
     setSelectedCountry(null);
   }
 
-
-
-
-
   //data && console.log(data);
 
   return (
